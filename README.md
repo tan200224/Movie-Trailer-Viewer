@@ -25,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="Flixster.gif" width=250><br>
 
 ### Notes
-for some resason, I think it app it easier than the pre-work. I only have some troubles with the pushing the project to github, and dealing the @Overrride. I asked TA to help to fix the github, and I fix the errors with @Override, after watch the walk throught video again. 
+For some resason, I think it app it easier than the pre-work. I only have some troubles with pushing the project to github, and dealing error with @Overrride. I asked TA to help me to fix the github, and I fix the errors with @Override, after watch the walk throught video again. 
 
 ### Open-source libraries used
 
