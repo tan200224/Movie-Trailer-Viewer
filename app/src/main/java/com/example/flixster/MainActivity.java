@@ -9,7 +9,6 @@ import android.os.Bundle;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
 import com.example.flixster.adapter.MovieAdapter;
 import com.example.flixster.models.Movie;
-import com.loopj.android.http.*;
 import android.util.Log;
 import com.codepath.asynchttpclient.AsyncHttpClient;
 
